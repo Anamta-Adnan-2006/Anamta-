@@ -30,9 +30,7 @@ I enjoy working on **security-based projects**, learning new tools, and continuo
 ---
 
 ## 💼 Experience & Roles  
-
-- 👩‍💼 **Project Coordinator** – organized and managed university-level IT events, workshops, and seminars  
-- 💻 **Cyber Lab Assistant** – supported lab setups, system maintenance, and guided students in technical issues  
+ 
 - 🧠 **Research Learner** – exploring **cyber defense methodologies** and **secure programming practices**  
 - 🎨 **Creative Designer** – designed posters, infographics, and event materials using **Canva** and **Figma**  
 
@@ -46,12 +44,7 @@ I enjoy working on **security-based projects**, learning new tools, and continuo
 
 ---
 
-## 🌟 Featured Project  
 
-### 🔗 [SecureSphere Initiative](#)
-*A conceptual cybersecurity awareness and research project promoting **digital safety**, **threat prevention**, and **responsible technology use**.*
-
----
 
 ## 📊 GitHub Analytics  
 
@@ -72,7 +65,7 @@ I enjoy working on **security-based projects**, learning new tools, and continuo
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="mailto:anamtaadnan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:anamtaadnan1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anamtaadnan"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AnamtaAdnan"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
