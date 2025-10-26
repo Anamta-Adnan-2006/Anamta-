@@ -46,21 +46,6 @@ I enjoy working on **security-based projects**, learning new tools, and continuo
 
 
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-<a href="https://github.com/AnamtaAdnan">
-<img src="https://github-readme-stats.vercel.app/api?username=AnamtaAdnan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/AnamtaAdnan">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnamtaAdnan&theme=tokyonight" alt="GitHub streak" />
-</a>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
