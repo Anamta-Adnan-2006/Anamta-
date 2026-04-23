@@ -50,7 +50,7 @@ I enjoy working on **security-based projects**, learning new tools, and continuo
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="mailto:anamtaadnan1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mahiimina343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anamtaadnan"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AnamtaAdnan"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
